@@ -1,0 +1,6 @@
+export const clientId='tBRzpr4mEOgpfaWwSge9Uu4YUeSsuYkkkRsAqHZq';
+
+export const clientSecret='rq47JHS4E1TJMzorw2qTC3yt1eLszrVO6w6anSj2hhfVVvifqnTjttkIDUI6bg0CRDAkFzzKEWsEsVxfWugysGVXsBrwkxRkaYodYwiWgUbIKLZnvjHOVUa04HROB0Ff';
+
+export const userLoggedin=false;
+
